@@ -2,7 +2,10 @@
 
 Custom 2D Game Engine written with C++/SDL/OpenGL.
 
-https://github.com/lstefanello/2D-Game-Engine/assets/2132316/2248d71e-173f-4b69-9775-3a25261b8467
+
+https://github.com/lstefanello/2D-Game-Engine/assets/2132316/d0b13729-248d-4451-b5da-5cd8c7e6db29
+
+
 
 The renderer is written in OpenGL and supports instanced rendering, batching, frustum culling, and simple point lights (no shadows).
 
